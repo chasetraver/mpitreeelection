@@ -1,4 +1,4 @@
-# mpitreeelection
+# mpi-tree-election
 program to elect leader from tree topography using mpi4py multiprocessing. Done for college multiprocessing class.
 
 requires at least Python 3.9
